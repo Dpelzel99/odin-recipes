@@ -1,0 +1,36 @@
+.title {
+    text-align: center;
+    color: gold;
+    border: black ;
+    background-color: black;
+}
+.buttoncontainer {
+    text-align: center;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.button {
+    padding: 10px;
+    margin: 5px;
+    font-size: 15px;
+    font-weight: 700;
+    background-color: gold;
+    color: black;
+    
+}
+
+.one {
+    text-align: center;
+
+}
+
+.two {
+
+}
+
+.three {
+
+}
